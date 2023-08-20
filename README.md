@@ -1,0 +1,2 @@
+# Calculadora_2_Lei_Newton
+TRABALHO DE LP FEITO POR MANUELA N° 26 E KEYLA N° 23.
